@@ -1,6 +1,6 @@
 # qrcli
 
-A simple and CLI tool to **encode** text into a QR code image and **decode** text from a QR code image.
+A simple CLI tool to **encode** text into a QR code image and **decode** text from a QR code image.
 
 ---
 
@@ -78,8 +78,8 @@ https://example.com
 ---
 
 ## Requirements
-- Go 1.20+
-- Libraries for QR code generation and decoding (e.g., `github.com/skip2/go-qrcode`, `github.com/tuotoo/qrcode`)
+- Go 1.24+
+- Libraries for QR code generation and decoding (e.g., `github.com/skip2/go-qrcode`, `github.com/caiguanhao/readqr`)
 
 ---
 
